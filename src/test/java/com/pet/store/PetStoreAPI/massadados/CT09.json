@@ -1,0 +1,65 @@
+{
+	"data": [
+		{
+			"petID": 111,
+			"nomePet": "Rex",
+			"categoriaPet": "dog",
+			"status": "available"
+		},
+		{
+			"petID": 222,
+			"nomePet": "Bolinha",
+			"categoriaPet": "dog",
+			"status": "available"
+		},
+		{
+			"petID": 333,
+			"nomePet": "Bob",
+			"categoriaPet": "dog",
+			"status": "available"
+		},
+		{
+			"petID": 444,
+			"nomePet": "Billy",
+			"categoriaPet": "dog",
+			"status": "available"
+		},
+		{
+			"petID": 555,
+			"nomePet": "Costelinha",
+			"categoriaPet": "dog",
+			"status": "available"
+		},
+		{
+			"petID": 666,
+			"nomePet": "Tulio",
+			"categoriaPet": "cat",
+			"status": "available"
+		},
+		{
+			"petID": 777,
+			"nomePet": "lilica",
+			"categoriaPet": "cat",
+			"status": "available"
+		},
+		{
+			"petID": 888,
+			"nomePet": "Nino",
+			"categoriaPet": "cat",
+			"status": "available"
+		},
+		{
+			"petID": 999,
+			"nomePet": "Tomas",
+			"categoriaPet": "cat",
+			"status": "available"
+		},
+		{
+			"petID": 100,
+			"nomePet": "Dinho",
+			"categoriaPet": "cat",
+			"status": "available"
+		}
+	]
+}
+  

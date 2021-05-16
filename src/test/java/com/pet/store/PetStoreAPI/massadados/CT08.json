@@ -1,0 +1,55 @@
+{
+	"data": [
+		{
+			"id": 111,
+			"username": "Ronaldo Figueiredo",
+			"firstName": "Ronaldo",
+			"lastName": "Figueiredo",
+			"email": "Ronaldo@gmail.com",
+			"password": "1234",
+			"phone": "11935436754",
+			"userStatus": 0
+		},
+		{
+			"id": 222,
+			"username": "Odair Ruiz",
+			"firstName": "Odair",
+			"lastName": "Ruiz",
+			"email": "Odair@gmail.com",
+			"password": "1234",
+			"phone": "11935436754",
+			"userStatus": 0
+		},
+		{
+			"id": 333,
+			"username": "Julio Moraes",
+			"firstName": "Julio",
+			"lastName": "Moraes",
+			"email": "Julio@gmail.com",
+			"password": "1234",
+			"phone": "11935436754",
+			"userStatus": 0
+		},
+		{
+			"id": 444,
+			"username": "Marcos Pereira",
+			"firstName": "Marcos",
+			"lastName": "Pereira",
+			"email": "Marcos@gmail.com",
+			"password": "1234",
+			"phone": "11935436754",
+			"userStatus": 0
+		},
+		{
+			"id": 555,
+			"username": "Carlos Roberto",
+			"firstName": "Carlos",
+			"lastName": "Roberto",
+			"email": "Carlos@gmail.com",
+			"password": "1234",
+			"phone": "11935436754",
+			"userStatus": 0
+		}
+	]
+}
+  
