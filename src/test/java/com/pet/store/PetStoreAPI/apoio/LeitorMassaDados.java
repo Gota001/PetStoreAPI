@@ -1,5 +1,6 @@
 package com.pet.store.PetStoreAPI.apoio;
 
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -13,7 +14,10 @@ public class LeitorMassaDados {
 	ObjectMapper mapper = new ObjectMapper();
 	
 	public JsonNode lerJsonMassaDados(String ct) throws IOException, ParseException{
-		FileReader fileReader = new FileReader("C:\\Users\\Hp\\Testes\\PetStoreAPI\\src\\test\\java\\com\\pet\\store\\PetStoreAPI\\massadados\\" +ct+".json"); 
+		
+		File currentDirFile = new File("");
+		String helper = currentDirFile.getAbsolutePath();
+		FileReader fileReader = new FileReader(helper+"\\src\\test\\java\\com\\pet\\store\\PetStoreAPI\\massadados\\" +ct+".json"); 
 		JSONParser parser = new JSONParser();
 		Object js = parser.parse(fileReader);
 		JsonNode json = mapper.readTree(js.toString());
